@@ -34,7 +34,7 @@
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" alt="React" width="30" height="30" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/flutter.svg" alt="Flutter" width="30" height="30" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" alt="HTML5" width="30" height="30" />
-<img src="[https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg](https://www.flaticon.com/free-icon/js_5968292?term=javascript&page=1&position=1&origin=search&related_id=5968292)" alt="JavaScript" width="40" height="40" />
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AJavascript_badge.svg&psig=AOvVaw2-s3sYGCKaWNOVeniVVhcA&ust=1747831415957000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPjO9seJso0DFQAAAAAdAAAAABAE" alt="JavaScript" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filament/filament-original.svg" alt="Filament" width="30" height="30" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mysql.svg" alt="MySQL" width="30" height="30" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/dart.svg" alt="Dart" width="30" height="30" />

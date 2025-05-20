@@ -1,4 +1,7 @@
-                                                       Hi there 👋 I'm Bereket Alemayehu
+   <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7971E&center=true&vCenter=true&width=435&lines=Hi+there+👋+I'm+Bereket+Alemayehu" alt="Typing SVG" />
+</p>
+
 
 <img src="https://github.com/user-attachments/assets/8e877114-f9a7-44ad-8cab-ce70212dbc56" width="600"/>
 

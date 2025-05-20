@@ -21,7 +21,7 @@
 📫 Reach me at [bereketalemayehuf@gmail.com](mailto:bereketalemayehuf@gmail.com)
 
 
-## 🤝 **Get in Touch**
+# 🤝 **Get in Touch**
 
 - **Email:** [bereketalemayehuf@gmail.com](mailto:bereketalemayehuf@gmail.com)  
 - **LinkedIn:** [https://www.linkedin.com/in/melonaafomi/](https://www.linkedin.com/in/melonaafomi/)  
@@ -46,8 +46,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
- <img src="https://seeklogo.com/images/C/cpanel-logo-DBBE20D7B0-seeklogo.com.png" alt="cPanel" width="40" height="40"/>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/CPanel_logo.svg" alt="cPanel" width="40" height="40"/>
 
 
 </p>
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=bereket-alemayehu)](https://git.io/streak-stats)
 

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=700&color=00FFFF&center=false&vCenter=true&width=1200&lines=Hi+%F0%9F%91%8B+I'm+Bereket+Alemayehu;I+am+Full+Stack+Developer+%7C+Flutter+Developer+%7C+Back-end+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=700&color=9D00FF&center=false&vCenter=true&width=1200&lines=Hi+%F0%9F%91%8B+I'm+Bereket+Alemayehu;I+am+Full+Stack+Developer+%7C+Flutter+Developer+%7C+Back-end+Developer" alt="Typing SVG" />
 </p>
 
 
@@ -56,7 +56,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bereket-alemayehu&show_icons=true&bg_color=ffffff&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=bereket-alemayehu&background=ffffff&ring=ff6e96&fire=ff6e96&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff)
+![GitHub Streak](https://streak-stats.demolab.com?user=bereket-alemayehu&theme=default&hide_border=true)
+
 
 
 

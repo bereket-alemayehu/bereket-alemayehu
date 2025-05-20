@@ -13,13 +13,13 @@
 
 
 
-💫 **About Me**  
+##💫 **About Me**  
 🔭 Hello, I am **Bereket Alemayehu**, an **App Developer** and **Backend Developer**. I specialize in **Flutter** for mobile app development and **Laravel** for backend development.  
 👨‍💻 I’m currently working as a **Backend Developer** on a **Property Management System**.  
 🌱 I’m learning **Machine Learning** and **AI** to deepen my knowledge in intelligent systems and data-driven solutions.  
 📫 Reach me at [bereketalemayehuf@gmail.com](mailto:bereketalemayehuf@gmail.com)
 
-## 📬 **Get in Touch**
+## 🤝 **Get in Touch**
 
 - **Email:** [bereketalemayehuf@gmail.com](mailto:bereketalemayehuf@gmail.com)  
 - **LinkedIn:** [https://www.linkedin.com/in/melonaafomi/](https://www.linkedin.com/in/melonaafomi/)  

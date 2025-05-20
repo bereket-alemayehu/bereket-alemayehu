@@ -1,7 +1,8 @@
-## Hi there 👋
+                                                       Hi there 👋 I'm Bereket Alemayehu
 
-<!--
-**bereket-alemayehu/bereket-alemayehu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github.com/user-attachments/assets/8e877114-f9a7-44ad-8cab-ce70212dbc56" width="600"/>
+
+
 
 Here are some ideas to get you started:
 

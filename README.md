@@ -13,7 +13,7 @@
 
 
 
-# 💫 About Me
+# ✨ About Me
 
 🔭 Hello, I am **Bereket Alemayehu**, an **App Developer** and **Backend Developer**. I specialize in **Flutter** for mobile app development and **Laravel** for backend development.  
 👨‍💻 I’m currently working as a **Backend Developer** on a **Property Management System**.  
@@ -27,7 +27,7 @@
 - **LinkedIn:** [https://www.linkedin.com/in/melonaafomi/](https://www.linkedin.com/in/melonaafomi/)  
 - **Telegram:** [@Melonaafomi](https://t.me/Melonaafomi)
 
-<h3>🧰 Tech Stack</h3>
+#🛠️ Stacks
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
@@ -56,7 +56,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bereket-alemayehu&show_icons=true&bg_color=ffffff&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=bereket-alemayehu&theme=default&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=bereket-alemayehu&background=ffffff&theme=radical)
+
 
 
 

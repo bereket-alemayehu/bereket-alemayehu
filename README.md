@@ -38,7 +38,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filament/filament-original.svg" alt="Filament" width="30" height="30" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mysql.svg" alt="MySQL" width="30" height="30" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/dart.svg" alt="Dart" width="30" height="30" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" alt="CSS3" width="30" height="30" />
+  <img src="![html](https://github.com/user-attachments/assets/84d81312-6a4d-4fa7-87fe-a3097fdf0d26)
+![css-3](https://github.com/user-attachments/assets/74e505ad-d49e-4629-bd99-6231819923fc)
+" alt="CSS3" width="30" height="30" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/firebase.svg" alt="Firebase" width="30" height="30" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/bootstrap.svg" alt="Bootstrap" width="30" height="30" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/typescript.svg" alt="TypeScript" width="30" height="30" />

@@ -27,8 +27,8 @@
 - **LinkedIn:** [https://www.linkedin.com/in/melonaafomi/](https://www.linkedin.com/in/melonaafomi/)  
 - **Telegram:** [@Melonaafomi](https://t.me/Melonaafomi)
 
-<h3>🔧 Tech Stack</h3>
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+<h3>🧰 Tech Stack</h3>
+<p>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mongodb.svg" alt="MongoDB" width="30" height="30" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/node-dot-js.svg" alt="Node.js" width="30" height="30" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" alt="React" width="30" height="30" />
@@ -49,5 +49,4 @@
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/java.svg" alt="Java" width="30" height="30" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/php.svg" alt="PHP" width="30" height="30" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/cpanel.svg" alt="cPanel" width="30" height="30" />
-</div>
-
+</p>

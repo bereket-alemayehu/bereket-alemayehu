@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=00FFFF&center=true&vCenter=true&width=1200&lines=Hi+%F0%9F%91%8B%2C+I'm+Bereket+Alemayehu;I+am+a+Full+Stack+Developer%2C+Flutter+prodigy%2C+and+Back-end+Developer." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=00FFFF&center=true&vCenter=true&width=1400&lines=Hi+%F0%9F%91%8B+I'm+Bereket+Alemayehu;I+am+a+Full+Stack+Developer+%7C+Flutter+Developer+%7C+Back-end+Developer" alt="Typing SVG" />
 </p>
+
 
 
 

@@ -46,7 +46,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/CPanel_logo.svg" alt="cPanel" width="40" height="40"/>
+ <img src="https://seeklogo.com/images/C/cpanel-logo-DBBE20D7B0-seeklogo.com.png" alt="cPanel" width="40" height="40"/>
+
 
 </p>
 

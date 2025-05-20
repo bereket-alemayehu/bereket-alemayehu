@@ -54,8 +54,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bereket-alemayehu&layout=compact&bg_color=ffffff&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bereket-alemayehu&show_icons=true&bg_color=ffffff&hide_border=true&title_color=000000&text_color=000000&icon_color=000000)
-![GitHub Streak](https://streak-stats.demolab.com?user=bereket-alemayehu&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bereket-alemayehu&show_icons=true&bg_color=ffffff&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=bereket-alemayehu&theme=github&hide_border=true)
+
 
 
 

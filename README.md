@@ -34,7 +34,7 @@
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" alt="React" width="30" height="30" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/flutter.svg" alt="Flutter" width="30" height="30" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" alt="HTML5" width="30" height="30" />
-  <img src="https://developer.mozilla.org/en-US/docs/Web/JavaScript" alt="JavaScript" width="30" height="30" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" alt="JavaScript" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filament/filament-original.svg" alt="Filament" width="30" height="30" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mysql.svg" alt="MySQL" width="30" height="30" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/dart.svg" alt="Dart" width="30" height="30" />

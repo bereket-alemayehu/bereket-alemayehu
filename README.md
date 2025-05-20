@@ -29,26 +29,23 @@
 
 ### 🔧 Tech Stack
 
-![MongoDB](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mongodb.svg)  
-![Node.js](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/node-dot-js.svg)  
-![React](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg)  
-![Flutter](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/flutter.svg)  
-![HTML5](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg)  
-![JavaScript](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg)  
-![Filament](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filament/filament-original.svg)  
-![MySQL](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mysql.svg)  
-![Dart](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/dart.svg)  
-![CSS3](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg)  
-![Firebase](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/firebase.svg)  
-![Bootstrap](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/bootstrap.svg)  
-![TypeScript](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/typescript.svg)  
-![VS Code](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/visualstudiocode.svg)  
-![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg)  
-![Laravel](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/laravel.svg)  
-![Sanctum](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/laravel.svg) <!-- no sanctum icon, so use Laravel's -->  
-![C++](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/cplusplus.svg)  
-![Java](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/java.svg)  
-![PHP](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/php.svg)  
-![cPanel](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/cpanel.svg)
-
-
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mongodb.svg" alt="MongoDB" width="30" height="30" />  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/node-dot-js.svg" alt="Node.js" width="30" height="30" />  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" alt="React" width="30" height="30" />  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/flutter.svg" alt="Flutter" width="30" height="30" />  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" alt="HTML5" width="30" height="30" />  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" alt="JavaScript" width="30" height="30" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filament/filament-original.svg" alt="Filament" width="30" height="30" />  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mysql.svg" alt="MySQL" width="30" height="30" />  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/dart.svg" alt="Dart" width="30" height="30" />  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" alt="CSS3" width="30" height="30" />  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/firebase.svg" alt="Firebase" width="30" height="30" />  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/bootstrap.svg" alt="Bootstrap" width="30" height="30" />  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/typescript.svg" alt="TypeScript" width="30" height="30" />  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/visualstudiocode.svg" alt="VS Code" width="30" height="30" />  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="30" height="30" />  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/laravel.svg" alt="Laravel" width="30" height="30" />  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/cplusplus.svg" alt="C++" width="30" height="30" />  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/java.svg" alt="Java" width="30" height="30" />  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/php.svg" alt="PHP" width="30" height="30" />  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/cpanel.svg" alt="cPanel" width="30" height="30" />

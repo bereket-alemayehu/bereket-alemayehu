@@ -7,8 +7,10 @@
 
 
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
 
-<img src="https://github.com/user-attachments/assets/8e877114-f9a7-44ad-8cab-ce70212dbc56" width="600"/>
 
 
 

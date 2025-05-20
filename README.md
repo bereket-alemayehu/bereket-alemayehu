@@ -50,8 +50,8 @@
 
 
 </p>
+#  ⏳ GitHub Streak 
 
-#⏳ GitHub Streak 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bereket-alemayehu&layout=compact&bg_color=ffffff&hide_border=true)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bereket-alemayehu&show_icons=true&bg_color=ffffff&hide_border=true)

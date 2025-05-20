@@ -19,8 +19,10 @@
 🌱 I’m learning **Machine Learning** and **AI** to deepen my knowledge in intelligent systems and data-driven solutions.  
 📫 Reach me at [bereketalemayehuf@gmail.com](mailto:bereketalemayehuf@gmail.com)
 
-📬 Reach Me
-Email:bereketalemayehuf@gmail.com
-LinkedIn: https://www.linkedin.com/in/melonaafomi/
-Telegram:@Melonaafomi
+## 📬 **Reach Me**
+
+- **Email:** [bereketalemayehuf@gmail.com](mailto:bereketalemayehuf@gmail.com)  
+- **LinkedIn:** [https://www.linkedin.com/in/melonaafomi/](https://www.linkedin.com/in/melonaafomi/)  
+- **Telegram:** [@Melonaafomi](https://t.me/Melonaafomi)
+
 

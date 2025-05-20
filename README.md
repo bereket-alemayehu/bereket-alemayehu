@@ -56,7 +56,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bereket-alemayehu&show_icons=true&bg_color=ffffff&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=bereket-alemayehu&theme=github&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=bereket-alemayehu&background=ffffff&ring=ff6e96&fire=ff6e96&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff)
+
 
 
 

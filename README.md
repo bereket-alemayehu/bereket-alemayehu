@@ -20,7 +20,7 @@
 
 
 
-<h2 align="left">🤝 Get in Touch</h2>
+# 🤝 Get in Touch
 
 <p align="left">
   <a href="mailto:bereketalemayehuf@gmail.com" target="_blank">

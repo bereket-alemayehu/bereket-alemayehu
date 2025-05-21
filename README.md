@@ -19,28 +19,30 @@
 
 
 
-# 🤝 Get in Touch
+
+<h2 align="left">🤝 Get in Touch</h2>
 
 <p align="left">
   <a href="mailto:bereketalemayehuf@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Email" width="36" height="36"/>
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Email" width="40" height="40"/>
   </a>
   <a href="https://www.linkedin.com/in/melonaafomi/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="36" height="36"/>
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="https://t.me/Melonaafomi" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="Telegram" width="36" height="36"/>
+    <img src="https://img.icons8.com/color/48/telegram-app--v1.png" alt="Telegram" width="40" height="40"/>
   </a>
   <a href="https://x.com/bekisha121921" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/twitterx.png" alt="Twitter/X" width="36" height="36"/>
+    <img src="https://img.icons8.com/color/48/twitterx.png" alt="Twitter" width="40" height="40"/>
   </a>
   <a href="https://www.instagram.com/melonaafomi" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram" width="36" height="36"/>
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" width="40" height="40"/>
   </a>
   <a href="https://wa.me/251912244500?text=Hello%20Bereket!" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp" width="36" height="36"/>
+    <img src="https://img.icons8.com/color/48/whatsapp.png" alt="WhatsApp" width="40" height="40"/>
   </a>
 </p>
+
 
 
 

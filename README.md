@@ -23,24 +23,25 @@
 
 <p align="left">
   <a href="mailto:bereketalemayehuf@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Email" width="30" height="30"/>
+    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Email" width="36" height="36"/>
   </a>
   <a href="https://www.linkedin.com/in/melonaafomi/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30" height="30"/>
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="36" height="36"/>
   </a>
   <a href="https://t.me/Melonaafomi" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="Telegram" width="30" height="30"/>
+    <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="Telegram" width="36" height="36"/>
   </a>
   <a href="https://x.com/bekisha121921" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/twitterx.png" alt="Twitter/X" width="30" height="30"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/twitterx.png" alt="Twitter/X" width="36" height="36"/>
   </a>
   <a href="https://www.instagram.com/melonaafomi" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram" width="30" height="30"/>
+    <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram" width="36" height="36"/>
   </a>
   <a href="https://wa.me/251912244500?text=Hello%20Bereket!" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp" width="30" height="30"/>
+    <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp" width="36" height="36"/>
   </a>
 </p>
+
 
 
 

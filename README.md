@@ -8,7 +8,7 @@
 
 
 
-<img src="https://github.com/user-attachments/assets/dba7c744-0605-4cd0-a809-b0c2e922c689" alt="download" width="200" height="200"/>
+<img src="https://github.com/user-attachments/assets/dba7c744-0605-4cd0-a809-b0c2e922c689" alt="download" width="600" height="600"/>
 
 
 

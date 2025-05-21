@@ -17,17 +17,28 @@
 🌱 I’m learning **Machine Learning** and **AI** to deepen my knowledge in intelligent systems and data-driven solutions.  
 📫 Reach me at [bereketalemayehuf@gmail.com](mailto:bereketalemayehuf@gmail.com)
 
-# 🤝 **Get in Touch**
+
+
+# 🤝 Get in Touch
 
 <p align="left">
-  <a href="mailto:bereketalemayehuf@gmail.com" target="_blank" rel="noopener noreferrer" style="margin-right: 10px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" width="30" height="30" />
+  <a href="mailto:bereketalemayehuf@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Email" width="30" height="30"/>
   </a>
-  <a href="https://www.linkedin.com/in/melonaafomi/" target="_blank" rel="noopener noreferrer" style="margin-right: 10px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30" />
+  <a href="https://www.linkedin.com/in/melonaafomi/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30" height="30"/>
   </a>
-  <a href="https://t.me/Melonaafomi" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" width="30" height="30" />
+  <a href="https://t.me/Melonaafomi" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="Telegram" width="30" height="30"/>
+  </a>
+  <a href="https://x.com/bekisha121921" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/twitterx.png" alt="Twitter/X" width="30" height="30"/>
+  </a>
+  <a href="https://www.instagram.com/melonaafomi" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram" width="30" height="30"/>
+  </a>
+  <a href="https://wa.me/251912244500?text=Hello%20Bereket!" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp" width="30" height="30"/>
   </a>
 </p>
 

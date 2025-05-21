@@ -1,11 +1,12 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=32a14f&center=false&vCenter=true&width=1200&lines=Hi+%F0%9F%91%8B+I'm+Bereket+Alemayehu;I+am+Full+Stack+%7C+Flutter+And+Back-end+Developer" alt="Typing SVG" />
+</p>
 
 
 ![download](https://github.com/user-attachments/assets/8aca211b-f081-4976-9379-13ce311e4016)
 
 
-<p>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</p>
+
 
 
 

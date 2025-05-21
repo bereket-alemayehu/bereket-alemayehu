@@ -8,7 +8,7 @@
 
 
 
-<img src="https://github.com/user-attachments/assets/dba7c744-0605-4cd0-a809-b0c2e922c689" alt="download" width="750" height="600"/>
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
 
 
 

@@ -3,11 +3,12 @@
 </p>
 
 
-![download](https://github.com/user-attachments/assets/8aca211b-f081-4976-9379-13ce311e4016)
 
 
 
 
+
+![download](https://github.com/user-attachments/assets/dba7c744-0605-4cd0-a809-b0c2e922c689)
 
 
 # ✨ About Me

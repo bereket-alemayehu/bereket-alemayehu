@@ -20,9 +20,16 @@
 
 # 🤝 **Get in Touch**
 
-- **Email:** [bereketalemayehuf@gmail.com](mailto:bereketalemayehuf@gmail.com)  
-- **LinkedIn:** [https://www.linkedin.com/in/melonaafomi/](https://www.linkedin.com/in/melonaafomi/)  
-- **Telegram:** [@Melonaafomi](https://t.me/Melonaafomi)
+- <a href="mailto:bereketalemayehuf@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gmail.svg" alt="Email" width="24" height="24" />
+  </a>  
+- <a href="https://www.linkedin.com/in/melonaafomi/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" alt="LinkedIn" width="24" height="24" />
+  </a>  
+- <a href="https://t.me/Melonaafomi" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/telegram.svg" alt="Telegram" width="24" height="24" />
+  </a>
+
 
 
 

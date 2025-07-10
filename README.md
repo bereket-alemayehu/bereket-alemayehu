@@ -1,4 +1,5 @@
 <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?
 font=Fira+Code&weight=600&size=40&pause=1000&color=2196F3&center=false&vCenter=true&width=1200&lines=Hi+%F0%9F%91%8B+I'm+Bereket+Alemayehu;I'm+Flutter+And+Back-end+Developer" alt="Typing SVG" />
 </p>
 
